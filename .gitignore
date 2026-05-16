@@ -1,0 +1,5 @@
+node_modules/
+crm.db
+*.log
+.env
+npm-debug.log*
